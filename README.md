@@ -38,7 +38,6 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)  
 📧 **E-mail:** sauloprado@email.com  
-🌐 **Portfólio:** [sauloprado.dev](https://seusite.com)  
 
 💡 **Aberto a colaborações, parcerias e novas ideias.**  
 Entre em contato pelo LinkedIn ou e-mail — será um prazer conversar! 🚀
