@@ -4,33 +4,28 @@
 
 ### 🚀 Sobre Mim
 
-💻 Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atualmente atuando como **Analista de Suporte de TI na AlmaViva Solutions**, atendendo a RNP. 
+💻 Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atualmente atuando como **Analista de Suporte de TI na AlmaViva Solutions**, alocado na RNP.  
 
-🔎 Entusiasta de tecnologia e inovação, em transição para o desenvolvimento **front-end**, com foco na **integração entre tecnologia e estratégia de negócios**.  
+🔎 Entusiasta de tecnologia e inovação, em transição para o **desenvolvimento front-end**, com foco na **integração entre usabilidade, desempenho e estratégia de negócios**.  
 
-📖 Conhecimentos fundamentais em **HTML5, CSS3, JavaScript e WordPress**.  
+📖 Conhecimentos fundamentais em **HTML5, CSS3, JavaScript, WordPress e Elementor**.  
 
-🎯 **Objetivo:** Atualização contínua e busca por novas oportunidades que unam **desenvolvimento, experiência do usuário e impacto estratégico.**
+🎯 **Objetivo:** Atualização contínua e busca por oportunidades que unam **tecnologia, experiência do usuário e impacto estratégico**.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**🖥️ Front-end**  
+**🖥️ Front-end**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**🔧 CMS e Ferramentas**  
+**🔧 CMS e Ferramentas**
+
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
-
----
-
-### 📈 Estatísticas no GitHub
-
-![Saulo Prado's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauloprado&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloprado&layout=compact&theme=tokyonight)
 
 ---
 
