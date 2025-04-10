@@ -4,7 +4,8 @@
 
 ### 🚀 Sobre Mim
 
-💻 Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atualmente atuando como **Analista de Suporte de TI pela AlmaViva**, alocado na RNP.  
+💻 Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atualmente atuando como **Analista de Suporte de TI pela AlmaViva**, alocado na RNP.
+
 📌 Como freelancer, atendi **11 clientes em parceria com a Agência Palazzo Publicidade e Propaganda**, desenvolvendo sites e soluções visuais focadas em experiência do usuário.
 
 🔎 Entusiasta de tecnologia e inovação, em transição para o desenvolvimento **front-end**, com foco na **integração entre usabilidade, desempenho e estratégia de negócios**.  
