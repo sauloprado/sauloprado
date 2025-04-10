@@ -11,6 +11,7 @@
 🔎 Entusiasta de tecnologia e inovação, em transição para o desenvolvimento **front-end**, com foco na **integração entre usabilidade, desempenho e estratégia de negócios**.  
 
 📖 Conhecimentos fundamentais em **HTML5, CSS3, JavaScript e WordPress**.  
+
 📝 Atualmente, **não utilizo PHP** e meu uso de **Python é limitado a scripts simples** e estudos exploratórios.
 
 🎯 **Objetivo:** Evoluir constantemente, aprendendo novas tecnologias e criando soluções que gerem valor real para pessoas e negócios.
