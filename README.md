@@ -4,9 +4,12 @@
 
 ### 🚀 Sobre Mim
 
-💻 Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atualmente atuando como **Analista de Suporte de TI na AlmaViva Solutions**, atendendo a RNP.  
+💻 Profissional de Tecnologia da Informação com mais de **20 anos de experiência**, atualmente atuando como **Analista de Suporte de TI na AlmaViva Solutions**, atendendo a RNP. 
+
 🔎 Entusiasta de tecnologia e inovação, em transição para o desenvolvimento **front-end**, com foco na **integração entre tecnologia e estratégia de negócios**.  
+
 📖 Conhecimentos fundamentais em **HTML5, CSS3, JavaScript e WordPress**.  
+
 🎯 **Objetivo:** Atualização contínua e busca por novas oportunidades que unam **desenvolvimento, experiência do usuário e impacto estratégico.**
 
 ---
