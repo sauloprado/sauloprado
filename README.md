@@ -30,15 +30,6 @@
 
 ---
 
-### 📈 Estatísticas no GitHub
-
-![Saulo Prado's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sauloprado&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sauloprado&layout=compact&theme=tokyonight)
-
-> ⚠️ *Os gráficos acima podem apresentar linguagens como PHP ou Python devido a repositórios antigos, testes ou estudos pontuais. Meu foco atual está no desenvolvimento front-end com HTML5, CSS3 e JavaScript.*
-
----
-
 ### 📫 Como Me Encontrar
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)  
