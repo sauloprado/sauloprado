@@ -41,12 +41,7 @@ Desenvolvo **processos automatizados** e **dashboards em tempo real** para rastr
 | [**Python Scripts**](https://github.com/sauloprado/Python-Scripts---Saulo-Prado) | Automações do dia a dia: notícias de IA com React + SQLite, cofre de senhas criptografado e acesso automatizado com Selenium | Python · Flask · React · SQLite |
 | [**Mastering Python 2026**](https://github.com/sauloprado/Mastering-Python-2026) | Estudo e portfólio técnico: CPython moderno, dados em alta performance e agentes de IA | Python · Pandas · Polars |
 | [**Myícone 2026**](https://github.com/sauloprado/Myicone2026) | Releitura moderna do portal de atalhos Myícone, com tema claro/escuro e busca em tempo real | React · TypeScript · Vite |
-| [**Dr. LinkedIn — Site**](https://github.com/sauloprado/Dr-Linkedin-Site) | Landing page editorial para a marca Dr. LinkedIn | HTML · CSS · React |
 | [**Palazzo**](https://github.com/sauloprado/Palazzo) | Site da Palazzo Publicidade, em transição do legado para Next.js + Payload CMS | Next.js · TypeScript · PHP |
-
-## Também faço
-
-🧱 **[PL Stack](https://plstack.com.br)** — sites, sistemas e automações para empresas: criação de sites em WordPress, painéis e integrações.
 
 ## Trilha de estudos
 
