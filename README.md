@@ -48,7 +48,7 @@ Desenvolvo **processos automatizados** e **dashboards em tempo real** para rastr
 Aprendizado contínuo, com o histórico versionado aqui no GitHub:
 
 - 🔄 [Desenvolvimento Web Completo — 20 cursos + 20 projetos](https://github.com/sauloprado/fullstack-web-20cursos-20projetos) *(em andamento)*
-- 📦 Arquivados como histórico: [HTML5 & JavaScript — 20 projetos](https://github.com/sauloprado/Html5-Js-20-projetos) · [Bootstrap (Hcode)](https://github.com/sauloprado/Curso-Hcode-Bootstrap) · [HTML5 (Hcode)](https://github.com/sauloprado/Curso-Html5-Hcode) · [Git e GitHub](https://github.com/sauloprado/Projeto-Curso-Git) · [Python 2019](https://github.com/sauloprado/Python) · [HTML5 Fundamentos](https://github.com/sauloprado/HTML5-Intro-MatheusBattisti) · [GPT customizado (DIO)](https://github.com/sauloprado/Projeto-GPT-DIO)
+- 📚 Cursos anteriores: [HTML5 & JavaScript — 20 projetos](https://github.com/sauloprado/Html5-Js-20-projetos) · [Bootstrap (Hcode)](https://github.com/sauloprado/Curso-Hcode-Bootstrap) · [HTML5 (Hcode)](https://github.com/sauloprado/Curso-Html5-Hcode) · [Git e GitHub](https://github.com/sauloprado/Projeto-Curso-Git) · [Python 2019](https://github.com/sauloprado/Python) · [HTML5 Fundamentos](https://github.com/sauloprado/HTML5-Intro-MatheusBattisti) · [GPT customizado (DIO)](https://github.com/sauloprado/Projeto-GPT-DIO)
 
 ## Contato
 
