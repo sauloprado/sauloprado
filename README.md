@@ -54,5 +54,6 @@ Aprendizado contínuo, com o histórico versionado aqui no GitHub:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo%20Prado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 [![E-mail](https://img.shields.io/badge/E--mail-saulosouza%40outlook.com-2DD4BF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:saulosouza@outlook.com)
+[![Envato](https://img.shields.io/badge/Envato-Membro%20desde%202014-81B441?style=for-the-badge&logo=envato&logoColor=white)](https://themeforest.net/user/saulosouzawebdesign)
 
 <sub>📍 Campinas, SP · Brasil</sub>
