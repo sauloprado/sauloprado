@@ -47,6 +47,7 @@ Desenvolvo **processos automatizados** e **dashboards em tempo real** para rastr
 
 Aprendizado contínuo, com o histórico versionado aqui no GitHub:
 
+- 🎓 **30+ bootcamps na DIO**, entre eles Bradesco GenAI & Dados e Santander Automação com n8n
 - 🔄 [Desenvolvimento Web Completo — 20 cursos + 20 projetos](https://github.com/sauloprado/fullstack-web-20cursos-20projetos) *(em andamento)*
 - 📚 Cursos anteriores: [HTML5 & JavaScript — 20 projetos](https://github.com/sauloprado/Html5-Js-20-projetos) · [Bootstrap (Hcode)](https://github.com/sauloprado/Curso-Hcode-Bootstrap) · [HTML5 (Hcode)](https://github.com/sauloprado/Curso-Html5-Hcode) · [Git e GitHub](https://github.com/sauloprado/Projeto-Curso-Git) · [Python 2019](https://github.com/sauloprado/Python) · [HTML5 Fundamentos](https://github.com/sauloprado/HTML5-Intro-MatheusBattisti) · [GPT customizado (DIO)](https://github.com/sauloprado/Projeto-GPT-DIO)
 
@@ -55,5 +56,6 @@ Aprendizado contínuo, com o histórico versionado aqui no GitHub:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saulo%20Prado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 [![E-mail](https://img.shields.io/badge/E--mail-saulosouza%40outlook.com-2DD4BF?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:saulosouza@outlook.com)
 [![Envato](https://img.shields.io/badge/Envato-Membro%20desde%202014-81B441?style=for-the-badge&logo=envato&logoColor=white)](https://themeforest.net/user/saulosouzawebdesign)
+[![DIO](https://img.shields.io/badge/DIO-30%2B%20bootcamps-E4105D?style=for-the-badge)](https://web.dio.me/users/saulosouza)
 
 <sub>📍 Campinas, SP · Brasil</sub>
