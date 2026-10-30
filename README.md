@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Saulo Prado — Gestão de Ativos de TI, Orçamento, Automação e Dashboards" width="100%">
+<img src="assets/banner.png" alt="Saulo Prado — Gestão de Ativos de TI, Orçamento, Automação e Dashboards" width="100%">
 </p>
 
 ## Olá, eu sou o Saulo 👋
@@ -40,8 +40,9 @@ Desenvolvo **processos automatizados** e **dashboards em tempo real** para rastr
 | --- | --- | --- |
 | [**Python Scripts**](https://github.com/sauloprado/Python-Scripts---Saulo-Prado) | Automações do dia a dia: notícias de IA com React + SQLite, cofre de senhas criptografado e acesso automatizado com Selenium | Python · Flask · React · SQLite |
 | [**Mastering Python 2026**](https://github.com/sauloprado/Mastering-Python-2026) | Estudo e portfólio técnico: CPython moderno, dados em alta performance e agentes de IA | Python · Pandas · Polars |
-| [**Myícone 2026**](https://github.com/sauloprado/Myicone2026) | Releitura moderna do portal de atalhos Myícone, com tema claro/escuro e busca em tempo real | React · TypeScript · Vite |
-| [**Palazzo**](https://github.com/sauloprado/Palazzo) | Site da Palazzo Publicidade, em transição do legado para Next.js + Payload CMS | Next.js · TypeScript · PHP |
+| [**Mint Estilo Mac**](https://github.com/sauloprado/mint-estilo-mac) | Script que deixa o Linux Mint com visual de macOS em um comando: modo claro ou escuro, maçã no menu, dock com zoom e papéis de parede 4K | Bash · Cinnamon · WhiteSur |
+| [**Ubuntu Estilo Mac**](https://github.com/sauloprado/ubuntu-estilo-mac) | O mesmo visual de macOS para o Ubuntu: maçã na barra superior, dock translúcido e papel de parede que troca sozinho no claro/escuro | Bash · GNOME · Dash to Dock |
+| [**Fedora Estilo Mac**](https://github.com/sauloprado/fedora-estilo-mac) | Versão para o Fedora Workstation, com tema WhiteSur, extensões do GNOME instaladas automaticamente e backup do visual anterior | Bash · GNOME · Dash to Dock |
 
 ## Trilha de estudos
 
